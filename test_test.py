@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-# -*-coding:utf-8-*-
-# coder:sjh
-# version:1.0
-
-a=9
-if a == 0:
-    print "hello world"
-else:
-    print "bye"
+新学了一个命令
+git rm -r xxx
+移除一个文件夹，或者可移除一个文件。
